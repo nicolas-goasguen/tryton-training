@@ -10,7 +10,7 @@ Through this exercise, I learned how to extend Tryton functionnalities by creati
 
 Please go on to the Tryton training [setup page](https://github.com/coopengo/tryton-training/wiki/5.0-setup) or find more information on the [wiki](https://github.com/coopengo/tryton-training/wiki) for instructions on how to setup Tryton and use this module.
 
-# Implemented functionnalities
+# Implemented features
 
 - Manage book **locations** (floors/rooms/shelves).
 - View **rooms**, **shelves**, and **book copies** with availability.
