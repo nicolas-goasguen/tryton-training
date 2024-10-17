@@ -12,11 +12,11 @@ Please go on to the Tryton training [setup page](https://github.com/coopengo/try
 
 # Implemented functionnalities
 
-- Manage book locations (floors/rooms/shelves).
-- View rooms, shelves, and book copies with availability.
+- Manage book **locations** (floors/rooms/shelves).
+- View **rooms**, **shelves**, and **book copies** with availability.
 - Special locations:
-  - Reserve: Non-borrowable book copies.
-  - Quarantine: Returned books stay 7 days before returning to shelves.
+  - **Reserve**: Non-borrowable book copies.
+  - **Quarantine**: Returned books stay 7 days before returning to shelves.
 - Move book copies between shelves or to the reserve.
 - Set shelf destination for bulk purchases, reserve some copies.
 - Bonus features:
